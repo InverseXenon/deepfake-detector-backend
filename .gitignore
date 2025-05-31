@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+static/uploads/*
+deepfake_detection_model_final.keras
